@@ -10,11 +10,10 @@ app.createItem = (name,url,lyr,price,where) =>{
 	const markup = `
 		<div class="container_box">
 		    <img src="${url}">
-		    <h2>${name}</h2>
-		    <p class="lyr">${lyr}</p>
+		    <h2>${name}</h2> 
+		    <p class="lyr">${lyr}</p> 
 		    <p class="price">${price}</p>
-		</div>
-	`;
+		</div>`;
 	
 	$(`.${where}`).append(markup);
 }
@@ -103,7 +102,7 @@ app.calculate = (responce) => {
 			select(jacketArray, 10 ,7);
 		} else if (app.itemIndicator() == 3) {
 			console.log("baselayer 4-7 + shirt 3+ + light jacket 3-7");
-			console.log("shirt 3+ + vest 4-8 + light jacket 3-7");
+			console.log("shirt 3+ + vest 4-8 + light jacket 3-7"); 
 			select(baseArray, 7 ,4);
 			select(shirtArray, 10 ,3);
 			select(jacketArray, 7 ,3);
@@ -163,20 +162,42 @@ app.weatherIndicator = () => {
 	return weather;
 }
 
-app.init = () => {
+app.getLoca = () => {
+	navigator.geolocation.getCurrentPosition((position) => {
+		const userLoca = {lat:position.coords.latitude, lon:position.coords.longitude}
+		app.weather(userLoca);
+	})
+}
+
+app.weatherKey = "tgqFcgfYrOL0dZos7nw21";
+app.weatherSecret = "b1C4Mzw2mFTy8m5RmgzulL92DZnOBlAH7CzpGE9D";
+
+app.weather = () => {
+	$.ajax(() =>{
+		url:`https://api.aerisapi.com/places/closest?p=${userLoca.lat},${userLoca.lon}&limit=5&client_id=${app.weatherKey}&client_secret=${app.weatherSecret}`
+	}).done((result) =>{
+		console.log(result);
+	})
+}
+
+app.startAction = () => {
 	$('button[type="submit"]').on("click", () => {
 		$(`.item-b`).empty();
 		$(`.item-c`).empty();
 		
 		app.getJSON();
 	});
+}
+
+app.init = () => {
+	app.startAction();
 
 	var handle = $( "#custom-handle" );
     var $bg = $('.background-color:before').css('opacity');
     $( "#slider" ).slider({
 
 		min: -30,
-		max: 20,
+		max: 20,  
 		create: function() {
 			handle.text( $( this ).slider( "value" ) );
 		},
@@ -215,10 +236,5 @@ app.init = () => {
 
 
 $( function() {	
-    
-    app.init();
-
-    
-
-
+    app.init(); 
 } );
