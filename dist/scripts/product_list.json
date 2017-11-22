@@ -1,0 +1,894 @@
+{	
+	"products": [ 
+		{ 
+			"name":"MEN'S OASIS LONG SLEEVE CREWE",
+			"lyr":"200 Lightweight",
+			"price": "C$110.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw6c812b5b/100476/100476802_1.jpg?sw=300&amp;sh=394",
+			"type": "baselayer",
+			"lvl": 3
+		},
+		{ 
+			"name":"UNISEX POCKET HAT",
+			"lyr":"",
+			"price": "C$30.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw4ad2bec1/IBM200/IBM200409_1.jpg?sw=300&amp;sh=394",
+			"type": "hat",
+			"lvl": 7
+		},
+		{ 
+			"name":"MEN'S BODYFITZONE WINTER ZONE LONG SLEEVE CREWE",
+			"lyr":"260 Midweight",
+			"price": "C$140.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw2f642811/103852/103852001_1.jpg?sw=300&amp;sh=394",
+			"type": "baselayer",
+			"lvl": 9
+		},
+		{ 
+			"name":"UNISEX REALFLEECE SIERRA GLOVES",
+			"lyr":"",
+			"price": "C$45.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dwe79f2926/103550/103550001_1.jpg?sw=300&amp;sh=394",
+			"type": "gloves",
+			"lvl": 8
+		},
+		{ 
+			"name":"UNISEX FLEXI CHUTE",
+			"lyr":"",
+			"price": "C$30.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw06da8a43/100962/100962003_1.jpg?sw=300&amp;sh=394",
+			"type": "hat",
+			"lvl": 6
+		},
+		{ 
+			"name":"MEN'S TECH TOP LONG SLEEVE CREWE",
+			"lyr":"260 Midweight",
+			"price": "C$135.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dwba499e27/104033/104033002_1.jpg?sw=300&amp;sh=394",
+			"type": "baselayer",
+			"lvl": 9
+		},
+		{ 
+			"name":"MEN'S TECH LITE SHORT SLEEVE CREWE",
+			"lyr":"150 Ultralight",
+			"price": "C$90.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dwb19ba272/103860/103860801_1.jpg?sw=300&amp;sh=394",
+			"type": "shirt",
+			"lvl": 3
+		},
+		{ 
+			"name":"MEN'S ANATOMICA SHORT SLEEVE V",
+			"lyr":"150 Ultralight",
+			"price": "C$85.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dwa5dec068/103661/103661002_1.jpg?sw=300&amp;sh=394",
+			"type": "baselayer",
+			"lvl": 2
+		},
+		{ 
+			"name":"MEN'S TECH LITE SHORT SLEEVE CREWE PYRENEES",
+			"lyr":"150 Ultralight",
+			"price": "C$100.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw0b7145e2/103838/103838001_1.jpg?sw=300&amp;sh=394",
+			"type": "shirt",
+			"lvl": 3
+		},
+		{ 
+			"name":"MEN'S TECH LITE SHORT SLEEVE CREWE EVERGREEN GEO",
+			"lyr":"150 Ultralight",
+			"price": "C$100.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw8b5b07d8/103842/103842001_1.jpg?sw=300&amp;sh=394",
+			"type": "shirt",
+			"lvl": 3
+		},
+		{ 
+			"name":"MEN'S EVERYDAY LONG SLEEVE CREWE",
+			"lyr":"200 Lightweight",
+			"price": "C$85.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw2df9695c/101261/101261g80_1.jpg?sw=300&amp;sh=394",
+			"type": "baselayer",
+			"lvl": 6
+		},
+		{ 
+			"name":"MEN'S BODYFITZONE WINTER ZONE LONG SLEEVE HALF ZIP",
+			"lyr":"260 Midweight",
+			"price": "C$160.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw7d28e52b/103319/103319402_1.jpg?sw=300&amp;sh=394",
+			"type": "baselayer",
+			"lvl": 9
+		},
+		{ 
+			"name":"MEN'S COOL-LITE SPHERE SHORT SLEEVE CREWE",
+			"lyr":"130 Featherweight",
+			"price": "C$85.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw9cb1f828/103608/103608002_1.jpg?sw=300&amp;sh=394",
+			"type": "shirt",
+			"lvl": 1
+		},
+		{ 
+			"name":"SCHUSS HEADBAND",
+			"lyr":"",
+			"price": "C$45.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dwf8841c60/104019/104019601_1.jpg?sw=300&amp;sh=394",
+			"type": "hat",
+			"lvl": 3
+		},
+		{ 
+			"name":"MEN'S OASIS LONG SLEEVE CREWE PYRENEES",
+			"lyr":"200 Lightweight",
+			"price": "C$120.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dwc7a562ac/103845/103845401_1.jpg?sw=300&amp;sh=394",
+			"type": "shirt",
+			"lvl": 6
+		},
+		{ 
+			"name":"MEN'S EVERYDAY SHORT SLEEVE CREWE",
+			"lyr":"200 Lightweight",
+			"price": "C$75.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dwe6a467e7/101267/101267001_1.jpg?sw=300&amp;sh=394",
+			"type": "baselayer",
+			"lvl": 5
+		},
+		{ 
+			"name":"UNISEX REALFLEECE APEX GLOVE LINERS",
+			"lyr":"",
+			"price": "C$35.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dwe1776934/IBMD29/IBMD29001_1.jpg?sw=300&amp;sh=394",
+			"type": "gloves",
+			"lvl": 5
+		},
+		{ 
+			"name":"UNISEX QUANTUM GLOVES",
+			"lyr":"",
+			"price": "C$45.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dwe17ee65f/101328/101328001_1.jpg?sw=300&amp;sh=394",
+			"type": "gloves",
+			"lvl": 4
+		},
+		{ 
+			"name":"UNISEX SCOUT BEANIE",
+			"lyr":"",
+			"price": "C$45.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw74919b9c/102676/102676001_1.jpg?sw=300&amp;sh=394",
+			"type": "hat",
+			"lvl": 8
+		},
+		{ 
+			"name":"UNISEX AFFINITY HEADBAND",
+			"lyr":"",
+			"price": "C$45.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw8c76c0f4/103373/103373501_1.jpg?sw=300&amp;sh=394",
+			"type": "hat",
+			"lvl": 4
+		},
+		{ 
+			"name":"UNISEX OASIS GLOVE LINERS",
+			"lyr":"",
+			"price": "C$30.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw589687a6/IBM207/IBM207001_1.jpg?sw=300&amp;sh=394",
+			"type": "gloves",
+			"lvl": 3
+		},
+		{ 
+			"name":"UNISEX REALFLEECE SIERRA MITTENS",
+			"lyr":"",
+			"price": "C$45.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw07d70e90/IBMC86/IBMC86001_1.jpg?sw=300&amp;sh=394",
+			"type": "gloves",
+			"lvl": 7
+		},
+		{ 
+			"name":"UNISEX CHASE BEANIE",
+			"lyr":"",
+			"price": "C$30.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw1004d88a/100746/100746404_1.jpg?sw=300&amp;sh=394",
+			"type": "hat",
+			"lvl": 6
+		},
+		{ 
+			"name":"UNISEX OASIS BALACLAVA",
+			"lyr":"",
+			"price": "C$45.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw1fe421d8/102739/102739001_1.jpg?sw=300&amp;sh=394",
+			"type": "hat",
+			"lvl": 10
+		},
+		{ 
+			"name":"MEN'S ANATOMICA SHORT SLEEVE CREWE",
+			"lyr":"150 Ultralight",
+			"price": "C$85.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw9576e936/103033/103033003_1.jpg?sw=300&amp;sh=394",
+			"type": "baselayer",
+			"lvl": 1
+		},
+		{ 
+			"name":"MEN'S OASIS LONG SLEEVE CREWE SKY NIGHT",
+			"lyr":"200 Lightweight",
+			"price": "C$120.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw90c60c74/103846/103846401_1.jpg?sw=300&amp;sh=394",
+			"type": "shirt",
+			"lvl": 5
+		},
+		{ 
+			"name":"MEN'S TECH TOP LONG SLEEVE HALF ZIP",
+			"lyr":"260 Midweight",
+			"price": "C$145.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dwc48afcac/104034/104034401_1.jpg?sw=300&amp;sh=394",
+			"type": "baselayer",
+			"lvl": 10
+		},
+		{ 
+			"name":"FLEXI CHUTE DIAMOND LINE",
+			"lyr":"",
+			"price": "C$30.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw0a64d031/104025/104025001_1.jpg?sw=300&amp;sh=394",
+			"type": "hat",
+			"lvl": 6
+		},
+		{ 
+			"name":"MEN'S BODYFITZONE ZONE LONG SLEEVE CREWE",
+			"lyr":"200 Lightweight",
+			"price": "C$130.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw9dd43090/102644/102644403_1.jpg?sw=300&amp;sh=394",
+			"type": "baselayer",
+			"lvl": 6
+		},
+		{ 
+			"name":"MEN'S COOL-LITE SPHERE LONG SLEEVE HOOD",
+			"lyr":"130 Featherweight",
+			"price": "C$120.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw3aea47fb/103610/103610002_1.jpg?sw=300&amp;sh=394",
+			"type": "shirt",
+			"lvl": 2
+		},
+		{ 
+			"name":"MEN'S OASIS SHORT SLEEVE CREWE",
+			"lyr":"200 Lightweight",
+			"price": "C$100.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw11a4d758/100475/100475406_1.jpg?sw=300&amp;sh=394",
+			"type": "baselayer",
+			"lvl": 6
+		},
+		{ 
+			"name":"MEN'S TECH LITE SHORT SLEEVE CREWE MERINO LINEATION",
+			"lyr":"150 Ultralight",
+			"price": "C$100.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw597b0334/103841/103841601_1.jpg?sw=300&amp;sh=394",
+			"type": "shirt",
+			"lvl": 5
+		},
+		{ 
+			"name":"MEN'S TECH LITE SHORT SLEEVE CREWE HIGH MTN CREST",
+			"lyr":"150 Ultralight",
+			"price": "C$100.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw7f0f8ca9/103839/103839401_1.jpg?sw=300&amp;sh=394",
+			"type": "shirt",
+			"lvl": 5
+		},
+		{ 
+			"name":"UNISEX APEX CHUTE",
+			"lyr":"",
+			"price": "C$45.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw307ea698/103458/103458001_1.jpg?sw=300&amp;sh=394",
+			"type": "hat",
+			"lvl": 7
+		},
+		{ 
+			"name":"SKYLINE SLOUCH BEANIE",
+			"lyr":"",
+			"price": "C$55.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw55d46856/104015/104015401_1.jpg?sw=300&amp;sh=394",
+			"type": "hat",
+			"lvl": 9
+		},
+		{ 
+			"name":"MEN'S MERINOLOFT HYPERIA HOODED JACKET",
+			"lyr":"230 Midweight",
+			"price": "C$400.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw01c5d36d/103874/103874401_1.jpg?sw=300&amp;sh=394",
+			"type": "jacket",
+			"lvl": 5
+		},
+		{ 
+			"name":"MEN'S QUANTUM LONG SLEEVE ZIP HOOD",
+			"lyr":"260 Midweight",
+			"price": "C$250.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw9d5bb269/103872/103872401_1.jpg?sw=300&amp;sh=394",
+			"type": "vest",
+			"lvl": 7
+		},
+		{ 
+			"name":"APEX CHUTE FLURRY",
+			"lyr":"",
+			"price": "C$45.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dwa8f3c7c4/104020/104020001_1.jpg?sw=300&amp;sh=394",
+			"type": "hat",
+			"lvl": 6
+		},
+		{ 
+			"name":"MEN'S MERINOLOFT HYPERIA LITE JACKET",
+			"lyr":"200 Lightweight",
+			"price": "C$330.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw39d90a11/103871/103871401_1.jpg?sw=300&amp;sh=394",
+			"type": "jacket",
+			"lvl": 3
+		},
+		{ 
+			"name":"CHASE PONYTAIL BEANIE",
+			"lyr":"",
+			"price": "C$30.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dwc0656c03/103299/103299003_1.jpg?sw=300&amp;sh=394",
+			"type": "hat",
+			"lvl": 4
+		},
+		{ 
+			"name":"MEN'S EVERYDAY LONG SLEEVE HALF ZIP",
+			"lyr":"200 Lightweight",
+			"price": "C$95.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw39278742/101259/101259001_1.jpg?sw=300&amp;sh=394",
+			"type": "baselayer",
+			"lvl": 4
+		},
+		{ 
+			"name":"TERRA GLOVES STRIPE",
+			"lyr":"",
+			"price": "C$40.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw321157bd/104046/104046501_1.jpg?sw=300&amp;sh=394",
+			"type": "gloves",
+			"lvl": 5
+		},
+		{ 
+			"name":"MEN'S TECH LITE SHORT SLEEVE CREWE SNOW BUG",
+			"lyr":"150 Ultralight",
+			"price": "C$100.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw88549347/103843/103843401_1.jpg?sw=300&amp;sh=394",
+			"type": "shirt",
+			"lvl": 4
+		},
+		{ 
+			"name":"MEN'S AERO SHORT SLEEVE CREWE",
+			"lyr":"120 Featherweight",
+			"price": "C$80.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dwe7ac4ba4/103790/103790402_1.jpg?sw=300&amp;sh=394",
+			"type": "shirt",
+			"lvl": 3
+		},
+		{ 
+			"name":"UNISEX REALFLEECE APEX BALACLAVA",
+			"lyr":"",
+			"price": "C$55.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dwaf300586/102738/102738001_1.jpg?sw=300&amp;sh=394",
+			"type": "hat",
+			"lvl": 10
+		},
+		{ 
+			"name":"UNISEX CHASE HEADBAND",
+			"lyr":"",
+			"price": "C$25.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dwf619fb6b/102978/102978001_1.jpg?sw=300&amp;sh=394",
+			"type": "hat",
+			"lvl": 7
+		},
+		{ 
+			"name":"UNISEX QUANTUM HEADBAND",
+			"lyr":"",
+			"price": "C$30.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw3f14a667/IBM458/IBM458001_1.jpg?sw=300&amp;sh=394",
+			"type": "hat",
+			"lvl": 6
+		},
+		{ 
+			"name":"DIAMOND LINE BEANIE",
+			"lyr":"",
+			"price": "C$60.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw62d3b194/104011/104011402_1.jpg?sw=300&amp;sh=394",
+			"type": "hat",
+			"lvl": 6
+		},
+		{ 
+			"name":"MEN'S TABI OASIS LONG SLEEVE TURTLENECK",
+			"lyr":"200 Lightweight",
+			"price": "C$155.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dwc42d852d/104229/104229002_1.jpg?sw=300&amp;sh=394",
+			"type": "shirt",
+			"lvl": 10
+		},
+		{ 
+			"name":"MEN'S SHIFTER LONG SLEEVE ZIP HOOD",
+			"lyr":"200 Lightweight",
+			"price": "C$240.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw95fc59bf/104044/104044001_1.jpg?sw=300&amp;sh=394",
+			"type": "vest",
+			"lvl": 1
+		},
+		{ 
+			"name":"CRUSH BEANIE",
+			"lyr":"",
+			"price": "C$50.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw05f43f60/104010/104010002_1.jpg?sw=300&amp;sh=394",
+			"type": "hat",
+			"lvl": 3
+		},
+		{ 
+			"name":"MEN'S ORIGINAL LONG SLEEVE HALF ZIP",
+			"lyr":"320 Heavyweight",
+			"price": "C$200.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dwc39f70ce/100871/100871403_1.jpg?sw=300&amp;sh=394",
+			"type": "vest",
+			"lvl": 3
+		},
+		{ 
+			"name":"UNISEX ATOM HAT",
+			"lyr":"",
+			"price": "C$50.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw62b9161f/103300/103300001_1.jpg?sw=300&amp;sh=394",
+			"type": "hat",
+			"lvl": 3
+		},
+		{ 
+			"name":"MEN'S OASIS LONG SLEEVE CREWE ZIG ZAG",
+			"lyr":"200 Lightweight",
+			"price": "C$110.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dwd2b09c9a/104059/104059401_1.jpg?sw=300&amp;sh=394",
+			"type": "baselayer",
+			"lvl": 3
+		},
+		{ 
+			"name":"MEN'S DESCENDER LONG SLEEVE ZIP",
+			"lyr":"240 Midweight",
+			"price": "C$250.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw04c44c60/103464/103464402_1.jpg?sw=300&amp;sh=394",
+			"type": "vest",
+			"lvl": 5
+		},
+		{ 
+			"name":"MEN'S OASIS LONG SLEEVE CREWE ASCENT STRIPE",
+			"lyr":"200 Lightweight",
+			"price": "C$120.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw8b3f2987/103844/103844001_1.jpg?sw=300&amp;sh=394",
+			"type": "shirt",
+			"lvl": 8
+		},
+		{ 
+			"name":"MEN'S ANATOMICA RIB SHORT SLEEVE CREWE",
+			"lyr":"180 Ultralight",
+			"price": "C$90.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw9f497b7f/103602/103602401_1.jpg?sw=300&amp;sh=394",
+			"type": "baselayer",
+			"lvl": 2
+		},
+		{ 
+			"name":"MEN'S OASIS LONG SLEEVE HALF ZIP ZIG ZAG",
+			"lyr":"200 Lightweight",
+			"price": "C$120.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw937feef4/104060/104060401_1.jpg?sw=300&amp;sh=394",
+			"type": "baselayer",
+			"lvl": 3
+		},
+		{ 
+			"name":"MEN'S OASIS LONG SLEEVE HALF ZIP",
+			"lyr":"200 Lightweight",
+			"price": "C$120.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dwe58896fe/100477/100477405_1.jpg?sw=300&amp;sh=394",
+			"type": "baselayer",
+			"lvl": 2
+		},
+		{ 
+			"name":"DIAMOND LINE SCARF",
+			"lyr":"",
+			"price": "C$90.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw77d46ef4/104022/104022001_1.jpg?sw=300&amp;sh=394",
+			"type": "hat",
+			"lvl": 2
+		},
+		{ 
+			"name":"UNISEX MOGUL BEANIE",
+			"lyr":"",
+			"price": "C$40.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw2bc50518/103457/103457001_1.jpg?sw=300&amp;sh=394",
+			"type": "hat",
+			"lvl": 5
+		},
+		{ 
+			"name":"UNISEX REALFLEECE SIERRA BEANIE",
+			"lyr":"",
+			"price": "C$35.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw8903613e/100750/100750001_1.jpg?sw=300&amp;sh=394",
+			"type": "hat",
+			"lvl": 4
+		},
+		{ 
+			"name":"UNISEX TERRA GLOVES",
+			"lyr":"",
+			"price": "C$40.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dwc1df6558/102240/102240001_1.jpg?sw=300&amp;sh=394",
+			"type": "gloves",
+			"lvl": 4
+		},
+		{ 
+			"name":"MEN'S DESCENDER LONG SLEEVE ZIP HOOD",
+			"lyr":"240 Midweight",
+			"price": "C$260.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw2970da6a/103465/103465402_1.jpg?sw=300&amp;sh=394",
+			"type": "vest",
+			"lvl": 5
+		},
+		{ 
+			"name":"SCHUSS POM BEANIE",
+			"lyr":"",
+			"price": "C$60.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw9160d69f/104024/104024401_1.jpg?sw=300&amp;sh=394",
+			"type": "hat",
+			"lvl": 10
+		},
+		{ 
+			"name":"MEN'S CORNICE CARDIGAN",
+			"lyr":"260 Midweight",
+			"price": "C$220.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw1f3c6c0f/103680/103680401_1.jpg?sw=300&amp;sh=394",
+			"type": "vest",
+			"lvl": 7
+		},
+		{ 
+			"name":"MEN'S BODYFITZONE WINTER ZONE LONG SLEEVE HALF ZIP HOOD",
+			"lyr":"260 Midweight",
+			"price": "C$170.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw183272f6/103854/103854401_1.jpg?sw=300&amp;sh=394",
+			"type": "baselayer",
+			"lvl": 7
+		},
+		{ 
+			"name":"UNISEX BOREAL HAND WARMERS",
+			"lyr":"",
+			"price": "C$45.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw5f3975d3/102679/102679001_1.jpg?sw=300&amp;sh=394",
+			"type": "gloves",
+			"lvl": 4
+		},
+		{ 
+			"name":"FLEXI CHUTE ZIG ZAG",
+			"lyr":"",
+			"price": "C$30.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw9847813a/104026/104026301_1.jpg?sw=300&amp;sh=394",
+			"type": "hat",
+			"lvl": 7
+		},
+		{ 
+			"name":"MEN'S MERINOLOFT ELLIPSE LONG SLEEVE ZIP",
+			"lyr":"230 Midweight",
+			"price": "C$270.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw34d0b045/103321/103321601_1.jpg?sw=300&amp;sh=394",
+			"type": "jacket",
+			"lvl": 4
+		},
+		{ 
+			"name":"MEN'S REALFLEECE MT ELLIOT LONG SLEEVE ZIP HOOD ",
+			"lyr":"200 Lightweight",
+			"price": "C$250.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dwe0649ac7/103452/103452002_1.jpg?sw=300&amp;sh=394",
+			"type": "vest",
+			"lvl": 2
+		},
+		{ 
+			"name":"MEN'S TABI OASIS CARDIGAN",
+			"lyr":"200 Lightweight",
+			"price": "C$180.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dwbc4ac4ac/104230/104230001_1.jpg?sw=300&amp;sh=394",
+			"type": "vest",
+			"lvl": 1
+		},
+		{ 
+			"name":"MEN'S MERINOLOFT HELIX REVERSIBLE SHIRT",
+			"lyr":"220 Midweight",
+			"price": "C$290.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dwd4f64c1c/102666/102666004_1.jpg?sw=300&amp;sh=394",
+			"type": "vest",
+			"lvl": 4
+		},
+		{ 
+			"name":"MEN'S REALFLEECE MT ELLIOT LONG SLEEVE ZIP",
+			"lyr":"200 Lightweight",
+			"price": "C$230.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw8f3a4125/103453/103453002_1.jpg?sw=300&amp;sh=394",
+			"type": "vest",
+			"lvl": 3
+		},
+		{ 
+			"name":"MEN'S BODYFITZONE ZONE LONG SLEEVE HALF ZIP",
+			"lyr":"200 Lightweight",
+			"price": "C$140.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw0ef03bb5/102645/102645304_1.jpg?sw=300&amp;sh=394",
+			"type": "baselayer",
+			"lvl": 2
+		},
+		{ 
+			"name":"MEN'S TECH LITE SHORT SLEEVE CREWE FIRST ASCENTS",
+			"lyr":"150 Ultralight",
+			"price": "C$100.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw65a8ce6e/103840/103840001_1.jpg?sw=300&amp;sh=394",
+			"type": "shirt",
+			"lvl": 5
+		},
+		{ 
+			"name":"FLURRY POM BEANIE",
+			"lyr":"",
+			"price": "C$60.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw0a5743d1/104017/104017001_1.jpg?sw=300&amp;sh=394",
+			"type": "hat",
+			"lvl": 10
+		},
+		{ 
+			"name":"MEN'S TRAILHEAD PULLOVER HOODY",
+			"lyr":"230 Midweight",
+			"price": "C$160.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dwacab2596/104032/104032401_1.jpg?sw=300&amp;sh=394",
+			"type": "vest",
+			"lvl": 4
+		},
+		{ 
+			"name":"TRAILHEAD BEANIE",
+			"lyr":"",
+			"price": "C$50.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw6636f985/104009/104009401_1.jpg?sw=300&amp;sh=394",
+			"type": "hat",
+			"lvl": 9
+		},
+		{ 
+			"name":"ALTITUDE SLOUCH BEANIE",
+			"lyr":"",
+			"price": "C$55.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw525f38c9/104016/104016402_1.jpg?sw=300&amp;sh=394",
+			"type": "hat",
+			"lvl": 10
+		},
+		{ 
+			"name":"MEN'S TABI DEICE LONG SLEEVE SCOOP",
+			"lyr":"260 Midweight",
+			"price": "C$170.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw9bc5adcd/104236/104236001_1.jpg?sw=300&amp;sh=394",
+			"type": "shirt",
+			"lvl": 10
+		},
+		{ 
+			"name":"SCOUT SPORT CUFF BEANIE",
+			"lyr":"",
+			"price": "C$50.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw79c68495/104012/104012402_1.jpg?sw=300&amp;sh=394",
+			"type": "hat",
+			"lvl": 10
+		},
+		{ 
+			"name":"ZIG POM BEANIE",
+			"lyr":"",
+			"price": "C$65.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dwde8fab4c/104018/104018001_1.jpg?sw=300&amp;sh=394",
+			"type": "hat",
+			"lvl": 10
+		},
+		{ 
+			"name":"MEN'S TABI REALFLEECE SWEAT PARKA",
+			"lyr":"200 Lightweight",
+			"price": "C$310.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dwe7546fb8/104234/104234002_1.jpg?sw=300&amp;sh=394",
+			"type": "vest",
+			"lvl": 3
+		},
+		{ 
+			"name":"MEN'S DESCENDER VEST",
+			"lyr":"240 Midweight",
+			"price": "C$180.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw3c8354b4/103455/103455004_1.jpg?sw=300&amp;sh=394",
+			"type": "vest",
+			"lvl": 7
+		},
+		{ 
+			"name":"MEN'S COOL-LITE INCLINE WINDBREAKER",
+			"lyr":"",
+			"price": "C$180.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw33a4ec56/103695/103695001_1.jpg?sw=300&amp;sh=394",
+			"type": "vest",
+			"lvl": 8
+		},
+		{ 
+			"name":"ALTITUDE CIRCLE SCARF",
+			"lyr":"",
+			"price": "C$80.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw709f597c/104023/104023001_1.jpg?sw=300&amp;sh=394",
+			"type": "hat",
+			"lvl": 3
+		},
+		{ 
+			"name":"AFFINITY HAND WARMERS",
+			"lyr":"",
+			"price": "C$30.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw6124980c/104027/104027001_1.jpg?sw=300&amp;sh=394",
+			"type": "gloves",
+			"lvl": 3
+		},
+		{ 
+			"name":"MEN'S TABI DEICE LONG SLEEVE CREWE",
+			"lyr":"260 Midweight",
+			"price": "C$170.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dwc62994a1/104235/104235401_1.jpg?sw=300&amp;sh=394",
+			"type": "shirt",
+			"lvl": 10
+		},
+		{ 
+			"name":"MEN'S TABI TECH LITE SHORT SLEEVE CREWE",
+			"lyr":"150 Ultralight",
+			"price": "C$125.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw90700712/104227/104227002_1.jpg?sw=300&amp;sh=394",
+			"type": "shirt",
+			"lvl": 4
+		},
+		{ 
+			"name":"MEN'S OASIS LONG SLEEVE CREWE SNOW BUG",
+			"lyr":"200 Lightweight",
+			"price": "C$120.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dwf3fb55ea/104276/104276001_1.jpg?sw=300&amp;sh=394",
+			"type": "shirt",
+			"lvl": 7
+		},
+		{ 
+			"name":"MEN'S OASIS LONG SLEEVE CREWE SKI CREST",
+			"lyr":"200 Lightweight",
+			"price": "C$120.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw7df0acb5/103847/103847601_1.jpg?sw=300&amp;sh=394",
+			"type": "shirt",
+			"lvl": 7
+		},
+		{ 
+			"name":"HELIX SLOUCH BEANIE",
+			"lyr":"",
+			"price": "C$50.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw229cc51b/104014/104014001_1.jpg?sw=300&amp;sh=394",
+			"type": "hat",
+			"lvl": 9
+		},
+		{ 
+			"name":"MEN'S MERINOLOFT HELIX VEST",
+			"lyr":"",
+			"price": "C$240.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dwc8c9f15f/103430/103430001_1.jpg?sw=300&amp;sh=394",
+			"type": "vest",
+			"lvl": 9
+		},
+		{ 
+			"name":"MEN'S MERINOLOFT DEPARTURE JACKET",
+			"lyr":"",
+			"price": "C$380.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw04403c9d/103312/103312002_1.jpg?sw=300&amp;sh=394",
+			"type": "jacket",
+			"lvl": 10
+		},
+		{ 
+			"name":"CRUSH SCARF",
+			"lyr":"",
+			"price": "C$80.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw7654dab6/104021/104021001_1.jpg?sw=300&amp;sh=394",
+			"type": "hat",
+			"lvl": 2
+		},
+		{ 
+			"name":"MEN'S MERINOLOFT ELLIPSE LONG SLEEVE HALF ZIP HOOD",
+			"lyr":"230 Midweight",
+			"price": "C$260.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw68fcf30f/103047/103047302_1.jpg?sw=300&amp;sh=394",
+			"type": "vest",
+			"lvl": 6
+		},
+		{ 
+			"name":"MEN'S MERINOLOFT HELIX LONG SLEEVE ZIP HOOD",
+			"lyr":"",
+			"price": "C$330.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dwe7b1c3ba/103432/103432403_1.jpg?sw=300&amp;sh=394",
+			"type": "vest",
+			"lvl": 10
+		},
+		{ 
+			"name":"MEN'S MERINOLOFT STRATUS X JACKET",
+			"lyr":"",
+			"price": "C$360.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dwdd40ee1b/103877/103877301_1.jpg?sw=300&amp;sh=394",
+			"type": "jacket",
+			"lvl": 9
+		},
+		{ 
+			"name":"SCHUSS CUFF BEANIE",
+			"lyr":"",
+			"price": "C$55.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dwf34c4ceb/104013/104013101_1.jpg?sw=300&amp;sh=394",
+			"type": "hat",
+			"lvl": 10
+		},
+		{ 
+			"name":"UNISEX CORONET BEANIE",
+			"lyr":"",
+			"price": "C$50.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw81bbcc04/103420/103420001_1.jpg?sw=300&amp;sh=394",
+			"type": "hat",
+			"lvl": 8
+		},
+		{ 
+			"name":"MEN'S MERINOLOFT STRATUS X VEST",
+			"lyr":"",
+			"price": "C$310.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw022f8ce9/103878/103878801_1.jpg?sw=300&amp;sh=394",
+			"type": "vest",
+			"lvl": 8
+		},
+		{ 
+			"name":"MEN'S MERINOLOFT HELIX LONG SLEEVE ZIP",
+			"lyr":"",
+			"price": "C$300.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dwce1f8ee0/103431/103431403_1.jpg?sw=300&amp;sh=394",
+			"type": "vest",
+			"lvl": 10
+		},
+		{ 
+			"name":"MEN'S MERINOLOFT HYPERIA LITE VEST",
+			"lyr":"",
+			"price": "C$270.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dwff6bd4b8/103870/103870601_1.jpg?sw=300&amp;sh=394",
+			"type": "vest",
+			"lvl": 8
+		},
+		{ 
+			"name":"CORNICE BEANIE",
+			"lyr":"",
+			"price": "C$50.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dwb488e4f2/104045/104045501_1.jpg?sw=300&amp;sh=394",
+			"type": "hat",
+			"lvl": 7
+		},
+		{ 
+			"name":"MEN'S INCLINE LONG SLEEVE ZIP",
+			"lyr":"230 Midweight",
+			"price": "C$220.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw8e0f6462/103818/103818402_1.jpg?sw=300&amp;sh=394",
+			"type": "vest",
+			"lvl": 5
+		},
+		{ 
+			"name":"MEN'S UTILITY SOFTSHELL JACKET",
+			"lyr":"",
+			"price": "C$300.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw6462557b/103875/103875301_1.jpg?sw=300&amp;sh=394",
+			"type": "jacket",
+			"lvl": 4
+		},
+		{ 
+			"name":"MEN'S MERINOLOFT ELLIPSE VEST",
+			"lyr":"230 Midweight",
+			"price": "C$210.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw1cc70408/103046/103046001_1.jpg?sw=300&amp;sh=394",
+			"type": "vest",
+			"lvl": 6
+		},
+		{ 
+			"name":"MEN'S REALFLEECE MT ELLIOT VEST ",
+			"lyr":"200 Lightweight",
+			"price": "C$180.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw262111e3/103454/103454001_1.jpg?sw=300&amp;sh=394",
+			"type": "vest",
+			"lvl": 4
+		},
+		{ 
+			"name":"MEN'S MERINOLOFT STRATUS TRANSCEND HOODED JACKET",
+			"lyr":"",
+			"price": "C$575.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dw27f649ff/104507/104507001_1.jpg?sw=300&amp;sh=394",
+			"type": "jacket",
+			"lvl": 10
+		},
+		{ 
+			"name":"MEN'S VICTORY LONG SLEEVE ZIP",
+			"lyr":"200 Lightweight",
+			"price": "C$180.00",
+			"url": "http://ca.icebreaker.com/dw/image/v2/AAFX_PRD/on/demandware.static/-/Sites-master-catalog/default/dwc0f1700e/102405/102405002_1.jpg?sw=300&amp;sh=394",
+			"type": "vest",
+			"lvl": 4
+		}
+	]
+}
+
+

@@ -1,0 +1,168 @@
+/**************************         
+IMPORT 
+***************************/     
+@import "_imports.scss"; 
+
+
+/**************************
+TEMPLATES begin 
+***************************/   
+/*-----------------------------------------------------------------------------------
+        ! ! !    R E A D   T H I S    ! ! !  
+        -----------------
+         
+        It's recomended to use/create a custom css file (or place them at the end of this file) to do you customizations in order to easily update the main css files without loosing your changes
+        
+        
+        > > Please take also a look at the documentation file.       
+    
+/*-----------------------------------------------------------------------------------
+    0.  RESET & CLEARFIX
+    1.  BASICS (body, headers, links, etc)
+    2.  GENERAL ELEMENTS
+    3.  HOME PAGE
+    4.  PAINTING PAGE
+    5.  FOOTER 
+    6.  NAVIGATION & MENU 
+    7.  SLIDER
+    8.  SECTION
+    9.  PAGETITLE
+    10. MASONRY (Portfolio/Blog)
+    11. PAGINATION
+    12. SHARE 
+    13. FILTER
+    14. BLOG
+    15. SPLIT SECTION
+    16. COLUMNS GRID
+    17. MAP
+    18. ELEMENTS / SHORTCODES
+    19. IMG OVERLAY
+    20. BORDERS  
+    21. PAGE INSTALL
+    22. CUSTOM
+     
+-----------------------------------------------------------------------------------*/
+/*---------------------------------------------- 
+2. GENERAL ELEMENTS
+------------------------------------------------*/
+
+body{
+	background-color:$white;
+	margin: 0;
+  padding-bottom:150px;
+}
+
+.background-color{
+	background-color:$white;
+	padding:0 5vw;
+	height:100vh;
+	margin: 0;
+	display: grid;
+	grid-template-columns: 100%;
+  	grid-template-rows: 10% 25% 60%;
+  	grid-column-gap: 0%;
+  	grid-row-gap: 1%;
+}
+
+
+.item-b, .item-c, .item-d{
+	background-color: $white;
+	border-radius: 10px;
+	padding:2% 3%;
+	z-index:1;
+}
+
+.item-a {
+  grid-column: 1 / span 3;
+  grid-row-start: 1;
+  grid-row-end: 1;
+  border-bottom: 1px solid $color1;
+  z-index: 1;
+  display: flex;
+  justify-content: center;
+  .logo{
+    width: 150px;
+    height: auto;
+  }
+}
+.item-b {
+  grid-column-start: 1;
+  grid-column-end: 1;
+  grid-row-start: 2;
+  grid-row-end: 2;
+  .container_box{
+    flex-direction: column;
+    justify-content: center;
+    img{
+      width: 30%;
+      height: auto;
+    }
+  }
+}
+
+.item-c {
+  grid-column-start: 1;
+  grid-column-end: 1;
+  grid-row-start: 3;
+  grid-row-end: 3;
+}
+
+.item-d {
+  grid-column-start: 2;
+  grid-column-end: 2;
+  grid-row-start: 2;
+  grid-row-end: 4;
+  padding-top: 15%;
+  
+}
+.item-e {
+  grid-row-start: 4;
+  grid-row-end: 4;
+  grid-column: 1 / span 3;
+  position: fixed;
+  display: flex;
+  margin: 0 5vw;
+  padding-top:4vh;
+  width: 90vw;
+  flex-direction: row;
+  bottom: 0;
+  background-color: $white;
+  z-index: 3;
+  border-top: 1px solid $color3;
+  & > div{
+    width: 30%;
+    padding: 0 3%;
+  }
+}
+
+.item-b, .item-c, .item-d{
+  text-align: center;
+}
+
+.item-b, .item-c{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  	// border-bottom: 1px solid $color1;
+}
+
+.slider, .tab{
+	text-align: center;
+	h1{
+		color: $color1;
+	}
+}
+
+
+.container_box{
+  display: flex;
+  flex-direction: column;
+  max-width: 33%;
+  flex:1;
+  align-items: center;
+  img{
+    width: 50%;
+    height: auto;
+  }
+}
+

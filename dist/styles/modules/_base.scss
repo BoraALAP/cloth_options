@@ -1,0 +1,219 @@
+*{
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    border-radius:0px;
+}
+
+h1,h2,h3,h4,h5,h6{
+    margin: 0 ;    
+}
+
+h1{
+    color:$color1;
+    font:{
+        family: $font1;
+        size: 1em;
+        weight:5;
+    }
+}
+
+h2{
+    font:{
+        family: $font1;
+        size: 0.75em;
+        weight:400;
+    }
+    color:$color1;
+}
+
+h3{ 
+    font:{
+        family: $font1;
+        size: 1.8em;
+        weight:700;
+    }
+}
+
+h4{
+    font:{
+        family: $font1;
+        size: 1.5em;
+        weight:700;
+    }
+}
+ 
+h5{
+    font:{
+        family: $font1;
+        size: 1.2em;
+        weight:700;
+    }
+    margin-bottom: 3vh;
+}
+
+h6{
+    font:{
+        family: $font1;
+        size: 0.9em;
+        weight:400;
+    }
+}
+
+p{ 
+    font:{
+        family: $font1;
+        size: 0.75em;
+        weight:300;
+    }
+    margin:0;
+    color: $gray4; 
+    line-height:2em;
+   
+}
+
+a{
+    text-decoration:none;
+}
+
+nav{
+    a{
+        font:{
+            family: $font1;
+            size: 0.75em;
+            weight:500;
+        }
+        text-decoration:none;
+    }
+}
+
+
+/*******************      Button       ********************/
+
+.btn{
+    border: 1px solid $black;
+    padding: 10px 0;
+    background: $black;
+}
+
+button{
+    border:none;
+    background:none;
+}
+
+.submitButton{
+    
+    text-align: center;
+    
+    button{
+        font:{
+            family: $font1;
+            size:0.75em;
+            weight:500;
+        }
+        padding:2vh 2vw;
+        color:$white;
+        background-color:$color1;
+        border-radius: 0;
+    }
+}
+
+
+
+/*******************      Slider       ********************/
+
+#slider{
+    background-color: $color2;
+    border-radius:0;
+    margin: 30px auto 50px;
+    border: 0;
+    height:2px;
+    #custom-handle{
+        background: $white;
+        width: 2em;
+        height: 2em;
+        top: -1em;
+        border-radius:0;
+        margin-left: -1em;
+        /* border-radius: 50%; */
+        border: 1px solid $color1;
+        box-shadow: 0px 0px 5px rgba($black,.2);
+        color: $color1;
+        align-items: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font: {
+            family: $font1;
+            size: 0.75;
+            weight:500;
+        }
+        text-align: center;
+        &:focus{
+            outline:0px;
+        }
+    }
+}
+
+
+/*******************      Selectable       ********************/
+
+#selectable {
+    list-style-type: none;  
+    padding: 0; 
+    width: 100%;
+    border: none;
+    .ui-selecting { 
+        background: $color1; 
+    }
+    .ui-selected { 
+        background: $color1; 
+        color: white; 
+    }
+    li { 
+        float: left; 
+        background-color: transparent;
+        width: 25%; 
+        padding:0.5vh 0;
+        font-size: 1em; 
+        text-align: center; 
+        box-sizing: border-box;
+        border: 1px solid $color1;
+        display: flex;
+        border-radius:0;
+        justify-content: center;
+        align-items: center;
+        font:{
+            family: $font1;
+            weight:500;
+            size:0.75em;
+        }
+        &.disabled{
+            opacity: 0.2;
+            pointer-events: none;
+        }
+    }
+}
+
+
+/*******************      FieldSet      ********************/
+
+fieldset{
+    border:none;
+    label{
+        background-color: transparent;
+        border:none;
+        font:{
+            size:0.75em;
+            family:$font1;
+        }
+        input{
+            border: 1px solid $color2;
+            border-radius:0;
+            background-image:none;
+            box-shadow:none; 
+        }
+    }   
+}
+
+
+
