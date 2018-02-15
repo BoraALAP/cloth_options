@@ -140,7 +140,7 @@
 
 		app.getJSON = () => {
 			$.ajax({
-				url: "/public/js/product_list.json",
+				url: "./public/js/product_list.json",
 				dataType: "json",
 				success: function (res) {
 					app.calculate(res.products);
