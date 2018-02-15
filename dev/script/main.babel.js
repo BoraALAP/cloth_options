@@ -10,13 +10,13 @@ app.createItem = (name,url,lyr,price,where) =>{
 	const markup = `
 		<div class="container_box">
 		    <img src="${url}">
-		    <h2>${name}</h2>
+		    <h2>${name}</h2> 
 		    <p class="lyr">${lyr}</p>
-		    <p class="price">${price}</p>
+		    <p class="price">${price}</p> 
 		</div>
 	`;
 	
-	$(`.${where}`).append(markup);
+	$(`.${where}`).append(markup);  
 }
 	
 
@@ -145,7 +145,7 @@ app.calculate = (responce) => {
 
 app.getJSON = () => {
 	$.ajax({
-		url: "../dist/scripts/product_list.json",
+		url: "../public/js/product_list.json",
 		dataType: "json",
 		success: function(res) {
 			app.calculate(res.products);

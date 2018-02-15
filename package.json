@@ -1,14 +1,44 @@
 {
-	"name": "BoraALAP_Project2",
-	"version": "1.0.0",
-	"description": "",
-	"main": "index.js",
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1",
-		"start": "pingy dev",
-		"export": "pingy export"
-	},
-	"keywords": [],
-	"author": "",
-	"license": "ISC"
+  "name": "mysite",
+  "version": "1.0.0",
+  "description": "My website Project Template",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Bora",
+    "ALAP"
+  ],
+  "author": "Bora ALAP",
+  "license": "MIT",
+  "bugs": {
+    "url": " "
+  },
+  "homepage": " ",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "browser-sync": "^2.19.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-babel": "^7.0.0",
+    "gulp-clean-css": "latest",
+    "gulp-coffee": "latest",
+    "gulp-concat": "latest",
+    "gulp-connect": "latest",
+    "gulp-livereload": "^3.8.1",
+    "gulp-refresh": "^1.1.0",
+    "gulp-sass": "latest",
+    "gulp-sourcemaps": "latest",
+    "gulp-uglify": "^3.0.0",
+    "gulp-util": "latest",
+    "gulp-watch-sass": "^1.0.3"
+  },
+  "dependencies": {
+    "gulp-browserify": "^0.5.1"
+  },
+  "presets": [
+    "env"
+  ]
 }
